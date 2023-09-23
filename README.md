@@ -1,2 +1,2 @@
 # Documentation Page
- this repo cotains a JS documentation.
+ This repo cotains a JS documentation.
